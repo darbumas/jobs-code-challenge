@@ -12,4 +12,7 @@ for a long time.
 
 ## Usage
 
+`./tfl_challenge`
 
+![Screenshot of example of usage.]
+(https://github.com/darbumas/jobs-code-challenge/tree/main/TFL/images/screenShot.png)

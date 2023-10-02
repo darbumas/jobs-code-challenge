@@ -8,15 +8,22 @@ for a long time.
 
 ## Compilation
 
-`gcc -Wextra -Werror -Wextra -pedantic *.c - o tfl_challenge`
+`$ gcc -Wextra -Werror -Wextra -pedantic *.c - o tfl_challenge`
 
 ## Usage
 
 Execute the binary:
+```
+$ ./tfl_challenge
+Enter a string: <your string here>"
+```
 
-`./tfl_challenge`
-`Enter a string: "`
+# Expected Output
 
-Enter your string to see the effect.
+```
+$ ./tfl_challenge
+Enter a string: This is my string
+$ T1s is my s1g 
+```
 
 [!How to use](/TFL/images/screenShot.png)

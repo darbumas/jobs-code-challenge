@@ -8,10 +8,15 @@ for a long time.
 
 ## Compilation
 
-`gcc -Wextra -Werror -Wextra -pedantic - o tfl_challenge`
+`gcc -Wextra -Werror -Wextra -pedantic *.c - o tfl_challenge`
 
 ## Usage
 
+Execute the binary:
+
 `./tfl_challenge`
+`Enter a string: "`
+
+Enter your string to see the effect.
 
 [!How to use](/TFL/images/screenShot.png)

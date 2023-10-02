@@ -14,5 +14,4 @@ for a long time.
 
 `./tfl_challenge`
 
-![Screenshot of example of usage.]
-(/images/screenShot.png)
+![(/images/screenShot.png)]

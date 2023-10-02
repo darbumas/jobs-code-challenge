@@ -14,4 +14,5 @@ for a long time.
 
 `./tfl_challenge`
 
-![(/images/screenShot.png)]
+[!alt
+text](https://github.com/darbumas/jobs-code-challenge/blob/main/TFL/images/screenShot.png?raw=true)

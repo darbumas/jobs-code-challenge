@@ -3,6 +3,8 @@
 /**
  * main - Entry of program
  *
+ * @author: B. Bwashi <github.com/darbumas>
+ *
  * Return: Always 0.
  */
 int main()

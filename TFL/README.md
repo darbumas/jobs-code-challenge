@@ -15,4 +15,4 @@ for a long time.
 `./tfl_challenge`
 
 ![Screenshot of example of usage.]
-(https://github.com/darbumas/jobs-code-challenge/tree/main/TFL/images/screenShot.png)
+(images/screenShot.png)
